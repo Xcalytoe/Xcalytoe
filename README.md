@@ -1,4 +1,4 @@
-### <p style='text-align: right;'> Hi there 👋</p>
+### <p align='center'> Hi there 👋</p>
 
 <!--
 **Xcalytoe/Xcalytoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true)
+<p align='center'> <img src="https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true" alt="Ezejiofor Cosmas' Github Stat"/></p>
 
-📫 How to reach me;
+<p fontSize="6px" align="center">📫 How to reach me;</p>
 
- <a href="mailto:ezejioforcosmas@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+<p align='center'><a href="mailto:ezejioforcosmas@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/ezejioforcosmas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
         </a> 
-        <a href="https://www.linkedin.com/in/cosmas-ezejiofor/" alt="LinkedIn">
+        <a href="https://www.linkedin.com/in/cosmas-ezejiofor/" target="_blank" rel="noopener noreferrer" alt="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
+        </a></p>
+      
 
