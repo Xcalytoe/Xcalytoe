@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 
 📫 How to reach me;
 
-![ezejioforcosmas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) ![[LinkedIn](https://www.linkedin.com/in/cosmas-ezejiofor/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
+ <a href="mailto:ezejioforcosmas@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a> 
+        <a href="https://www.linkedin.com/in/cosmas-ezejiofor/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+
