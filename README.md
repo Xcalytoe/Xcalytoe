@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'> <img src="https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true" alt="Ezejiofor Cosmas' Github Stat"/></p>
+<p align='center'> <img src="https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true" alt="Github Stat (refresh page if stat doesn't load)"/></p>
 
 <p fontSize="6px" align="center">📫 How to reach me;</p>
 
