@@ -26,5 +26,10 @@ Here are some ideas to get you started:
         <a href="https://www.linkedin.com/in/cosmas-ezejiofor/" target="_blank" rel="noopener noreferrer" alt="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a></p>
+        <p align='center'>
+        <a href="https://www.kcosmas.com" target="_blank" rel="noopener noreferrer" alt="Portfolio">
+  kcosmas.com
+        </a></p>
+        
       
 
