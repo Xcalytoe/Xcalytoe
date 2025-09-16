@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-## 👋 Hi, I'm Cosmas Meche
+## 👋 Hi, I'm Cosmas
 
 
 💻 Frontend Developer | 🌐 Learning Backend (Node.js, Express, MongoDB, MySQL) | 🚀 Aspiring Fullstack Engineer  
