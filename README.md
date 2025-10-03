@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- ![Cosmas' GitHub stats](https://github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true)-->
 <!--<p align='center'> <img src="https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true" alt="Github Stat (refresh page if stat doesn't load)"/></p> -->
 
-![Profile views](https://komarev.com/ghpvc/?username=Xcalytoe&color=blue)
+<!--< ![Profile views](https://komarev.com/ghpvc/?username=Xcalytoe&color=blue) -->
 
 <p fontSize="6px" align="">🌐 Connect with Me;</p>
 
