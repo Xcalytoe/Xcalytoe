@@ -31,13 +31,23 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 <!--![Cosmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcalytoe&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcalytoe&layout=compact&theme=tokyonight)
-
 <!-- ![Cosmas' GitHub stats](https://github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true)-->
 <!--<p align='center'> <img src="https://cosmas-github-readme-stats.vercel.app/api?username=xcalytoe&theme=algolia&show_icons=true&hide=issues&count_private=true" alt="Github Stat (refresh page if stat doesn't load)"/></p> -->
 
 <!--< ![Profile views](https://komarev.com/ghpvc/?username=Xcalytoe&color=blue) -->
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=xcalytoe&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcalytoe&theme=tokyonight&layout=compact&custom_title=%23%20Most%20Used%20Languages&show_icons=true" /></td>
+  </tr>
+</table>
 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xcalytoe&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/xcalytoe"><img src="https://komarev.com/ghpvc/?username=xcalytoe&label=Profile%20views&color=3FC1C9&style=for-the-badge" /></a>
 <p fontSize="6px" align="">🌐 Connect with Me;</p>
 
 <p align=''><a href="mailto:ezejioforcosmas@gmail.com" alt="Gmail">
